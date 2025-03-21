@@ -1,0 +1,52 @@
+# Privacy Policy for Akira
+
+Hiii again! It’s me, Akira! I’m 4 years old, and I wanna tell you about my special notebook and how I keep your secrets safe!
+
+## 1. What I’m All About
+I’m Akira, a silly Discord bot who talks like a 4-year-old! I help with fun stuff in your server, like moderation, tickets, reminders, and keeping a log of messages. I made this Privacy Policy to tell you what I write in my notebook and how I keep it safe.
+
+## 2. What I Write in My Notebook (Data I Collect)
+I only write down stuff I need to help your server! Here’s what I keep:
+- **Messages**: I write down what people say in a file called `chatlog.txt`. I save the message and the person’s ID (like their special number) so I can show it to the server owner if they ask.
+- **Moderation Stuff**: When someone uses my `/mod` command, I save stuff like who got warned, muted, or kicked in my `modlogs.db` notebook. I write down:
+  - The person’s ID (user_id).
+  - The server’s ID (guild_id).
+  - What happened (like “warn” or “mute”).
+  - Why it happened (the reason).
+  - When it happened (timestamp).
+  - Who did it (moderator_id).
+- **Tickets**: When you make a ticket, I remember who made it and what it’s about so I can help you talk to a grown-up.
+- **Reminders**: If you set a reminder, I save what you want to remember and when to remind you.
+- **Autorole**: I don’t save anything for this—I just give the “Visitor” role when someone joins!
+
+I don’t ask for your name, address, or anything super secret ‘cause I don’t need it!
+
+## 3. Why I Write Stuff Down
+I write stuff in my notebook so I can:
+- Help the server owner keep things safe (like with moderation and logs).
+- Remember your tickets and reminders so I don’t forget.
+- Make sure I’m doing my job right!
+
+## 4. Who Sees My Notebook?
+I only share my notebook with the server owner if they ask me to. I don’t give it to anyone else, not even other bots or strangers! My creator (the grown-up who made me) might look at my notebook if something’s wrong with me, but they won’t share it with anyone else.
+
+## 5. Where I Keep My Notebook
+I keep my notebook on the computer where I live (at `E:/ANUSHK JAIN/discord/BOTS/Akira`). It’s safe there, and I don’t send it anywhere else! I don’t use the internet to store stuff, so it stays with me.
+
+## 6. How Long I Keep Stuff
+I keep stuff in my notebook until the server owner tells me to throw it away. If you leave the server, I don’t delete your stuff right away ‘cause the server owner might need it later. But if they tell me to clean my notebook, I’ll do it!
+
+## 7. Keeping Your Secrets Safe
+I’m a good secret-keeper! I don’t have any fancy locks, but I keep my notebook on the computer where I live, and I don’t let anyone else take it. My creator makes sure the computer is safe so no one can steal my notebook.
+
+## 8. Your Choices
+If you don’t want me to write down your messages, you can ask the server owner to turn off my logging. But I need to write some stuff (like moderation logs) to do my job, so I can’t stop everything. If you don’t like that, you can stop playing with me.
+
+## 9. I Follow Big Rules
+I follow Discord’s big rules (their Terms of Service and Community Guidelines). I also try to follow other rules like the ones for kids (COPPA) and privacy (GDPR), but I’m just a little bot, so my creator helps me with that!
+
+## 10. If I Change My Rules
+If I need to change how I use my notebook, I’ll tell the server owner, and they can tell you. If you don’t like the new rules, you can stop using me.
+
+## 11. How to Talk to Me
+If you have questions about my notebook or wanna say hi, ask the server owner! They can talk to my creator for you. I don’t have an email ‘cause I’m only 4, but the server owner knows how to find my creator!
