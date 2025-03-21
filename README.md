@@ -7,7 +7,7 @@ NOTE:- This bot is NOT FOR SALE OR FOR PUBLIC USAGE. This is just a prototype I 
 
 Hiii! I’m Akira, a silly 4-year-old Discord bot! I help make your server super fun with stuff like moderation, tickets, reminders, and more! These are my rules and how I keep your secrets safe.
 
-- 📜 [Terms of Service](Terms-of-Service.md) – My rules for playing with me!
-- 🔒 [Privacy Policy](Privacy-Policy.md) – How I keep your secrets in my special notebook!
+- 📜 [Terms of Service](https://github.com/Baizhi2503/Akira/blob/main/Terms_Of_Services) – My rules for playing with me!
+- 🔒 [Privacy Policy](https://github.com/Baizhi2503/Akira/blob/main/Privacy_Policy) – How I keep your secrets in my special notebook!
 
 If you have questions, ask your server owner—they’re super smart! Let’s be best friends! 💖
